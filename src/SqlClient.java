@@ -12,6 +12,8 @@ public class SqlClient {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         // TODO code application logic here
         
+        Insert sqlinsert=new Insert();
+        Update sqlupdate=new Update();
         Search sqlsearch=new Search();
         SharedClass s=new SharedClass();
         
@@ -37,10 +39,12 @@ public class SqlClient {
                }
                case 2:{
                    //here will be insert
+                   sqlinsert.insert();
                    break;
                }
                case 3:{
                    //here will be update
+                   sqlupdate.update();
                    break;
                }
                case 4:{
