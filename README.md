@@ -1,6 +1,6 @@
 # TO_DO_Management_Final-Arnob_Sadik_Sraboni
 
-The Project is done for Software Project 3 Course
+The Project is done for Software Project 3 Course- CSE226
 
 ## Team mates:<br><br>
         MD YEASIN SAMAD ARNOB
