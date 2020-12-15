@@ -27,7 +27,7 @@ Secondly, Import this Project to IDE such as (Netbeans) and Install any mising *
 
 ## STEP-3:
 
-Run XAMPP Server and then Run the Project program main file. In this case its:
+Run **XAMPP** Server and then Run the Project program main file. In this case its:
 
 ```SqlClient.java```
 
