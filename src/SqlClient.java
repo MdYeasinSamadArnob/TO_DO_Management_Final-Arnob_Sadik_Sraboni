@@ -14,6 +14,7 @@ public class SqlClient {
         
         Insert sqlinsert=new Insert();
         Update sqlupdate=new Update();
+        Delete sqldelete=new Delete();
         Search sqlsearch=new Search();
         SharedClass s=new SharedClass();
         
@@ -53,6 +54,7 @@ public class SqlClient {
                }
                case 5:{
                   // here will be delete
+                   sqldelete.delete();
                    break;
                }
                case 6:{
