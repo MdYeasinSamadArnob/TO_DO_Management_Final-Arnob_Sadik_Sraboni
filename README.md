@@ -6,8 +6,8 @@ Team mates:<br><br>
         MD YEASIN SAMAD ARNOB<br>
         SADIK HASAN RAFI <br>
         SRABONI AKTER <br>
-        
-        Section: O6 <br><br>
+
+Section: O6
 
 Description:
 
@@ -15,4 +15,22 @@ Due to Covid-19, the Online classes have gotten popularity. So everyday new task
 
 Project Installation:
 
-.........
+##STEP-1:
+
+First Import the Schema in MySql Database and make sure To Import the Database as named **todomanage**
+
+```The todomanage.sql can be found in Schema Folder ```
+
+##STEP-2:
+
+Secondly, Import this Project to IDE such as (Netbeans) and Install any mising **Library**.
+
+##STEP-3:
+
+Run XAMPP Server and then Run the Project program main file. In this case its:
+
+```SqlClient.java```
+
+Congrats, Done
+
+
