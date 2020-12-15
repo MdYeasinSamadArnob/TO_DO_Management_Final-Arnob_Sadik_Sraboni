@@ -3,9 +3,9 @@
 The Project is done for Software Project 3 Course
 
 ## Team mates:<br><br>
-        MD YEASIN SAMAD ARNOB<br>
-        SADIK HASAN RAFI <br>
-        SRABONI AKTER <br>
+        MD YEASIN SAMAD ARNOB
+        SADIK HASAN RAFI 
+        SRABONI AKTER 
 
 ## Section: O6
 
